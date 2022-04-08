@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pstawekl
-- 👀 I’m interested in php, html5, css, vb, c#
-- 🌱 I’m currently learning all of them
+- 👀 I’m interested in .NET, c#, vb.net, delphi, react/js, php
+- 🌱 I’m currently working in and learning all of them
 
 <!---
 pstawekl/pstawekl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
