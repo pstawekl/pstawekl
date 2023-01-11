@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pstawekl
-- 👀 I’m interested in .NET, c#, vb.net, delphi, react/js, php
-- 🌱 I’m currently working in and learning all of them
+- 👀 I’m interested in React/JS, Python, .NET/c#, vb.net, Delphi/Objective Pascal
+- 🌱 I’m currently working in and learning /w React/JS, Python and Delphi/Objective Pascal in Agat IT company
 
 <!---
 pstawekl/pstawekl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
