@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pstawekl
 - 👀 I’m interested in React/JS, Python, .NET(c#, vb.net), Delphi/Pascal
-- 🌱 I’m currently working in and learning /w React/JS, Python and Delphi/Pascal in Agat IT company
+- 🌱 I’m currently working in and learning w/ React/JS, Python and Delphi/Pascal in Agat IT company
 - I worked w/ .NET before in C# and VB.net. 
 
 <!---
