@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pstawekl
-- 👀 I have worked with Typescript(React, JQuery), Javascript, .NET(C#, WPF, WinForms, VB.net), .NetWebCore, Python, T-SQL, Delphi/Pascal
-- 🌱 I’m currently working w/ Typescript React, JQuery, .NET and T-SQL in Asseco Business Solutions company
+- 👀 I have worked with Typescript(React, JQuery, React Native), Javascript, .NET(C#, WPF, WinForms, VB.net), .NetWebCore, Python, T-SQL, Delphi/Pascal
+- 🌱 I’m currently working w/ Typescript React, React Native, JQuery, .NET and T-SQL in Asseco Business Solutions company
 - 🔙 Before I worked w/ React, Typescript, Python, .NET in C# and VB.net, and Delphi/Pascal in Agat IT & Soft-Help companies. 
 
 <!---
