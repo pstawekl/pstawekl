@@ -3,8 +3,8 @@
 💼 Experienced Full-Stack Developer with a strong foundation in front-end and back-end technologies, delivering robust and scalable software solutions.
 
 🚀 Technical Skills:
-- Front-End: TypeScript/JavaScript, React.js, JQuery, React Native, C#, WPF, WinForms
-- Back-End: .NET, C#, VB.NET, .NET Core, Python
+- Front-End: TypeScript/JavaScript, React.js, Next.js, JQuery, React Native, C#, WPF, WinForms
+- Back-End: .NET, C#, VB.NET, .NET Core, Python, Next.js
 - Databases: T-SQL, PostgreSQL, MS SQL, MySQL
 - Legacy Systems: Delphi/Pascal
 
