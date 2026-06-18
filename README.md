@@ -6,8 +6,6 @@ Fullstack developer building AI-powered applications at the intersection of
 Currently @[Xelto](https://xelto.pl) · Founder of @[Interactive](https://interactive.net.pl) — a software agency 
 focused on modern web and AI-integrated solutions.
 
-Currently working in @Xelto
-
 `TypeScript` `React` `Next.js` `Node.js` 
 `Python` `Django` `Fast API`
 `Oracle NetSuite` `SuiteScript`
