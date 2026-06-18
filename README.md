@@ -8,7 +8,10 @@ focused on modern web and AI-integrated solutions.
 
 Currently working in @Xelto
 
-`TypeScript` `React` `Python` `Node.js` `Oracle NetSuite` `SuiteScript`
+`TypeScript` `React` `Next.js` `Node.js` 
+`Python` `Django` `Fast API`
+`Oracle NetSuite` `SuiteScript`
+`.NET` `C#` `VB.net`
 
 📫 jakub.stawski@interactive.net.pl  
 🔗 [LinkedIn](https://linkedin.com/in/jakub-stawskidev)
