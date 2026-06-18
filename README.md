@@ -1,17 +1,14 @@
-👋 Hi, I’m Jakub Stawski!
+## 👋 Hi, I'm Jakub Stawski
 
-💼 Experienced Full-Stack Developer with a strong foundation in front-end and back-end technologies, delivering robust and scalable software solutions.
+Fullstack developer building AI-powered applications at the intersection of 
+**LLMs** and **enterprise ERP systems**.
 
-🚀 Technical Skills:
-- Front-End: TypeScript/JavaScript, React.js, Next.js, JQuery, React Native, C#, WPF, WinForms
-- Back-End: .NET, C#, VB.NET, .NET Core, Python, Next.js
-- Databases: T-SQL, PostgreSQL, MS SQL, MySQL
-- Legacy Systems: Delphi/Pascal
+Currently @ [Xelto](https://xelto.pl) · Founder of [Interactive](https://interactive.net.pl) — a software agency 
+focused on modern web and AI-integrated solutions.
 
-🏢 Professional Experience:
-- Currently: Developing one of the most popular ERP system in Europe at Asseco Business Solutions.
-- Previously: Worked on full-stack solutions with React, TypeScript, Python, .NET (C# & VB.NET), and Delphi/Pascal in Agat IT and Soft-Help.
+Currently working in @Xelto
 
-🌟 Passionate about building efficient, maintainable applications and continually expanding my expertise. Open to exciting opportunities to contribute and grow!
+`TypeScript` `React` `Python` `Node.js` `Oracle NetSuite` `SuiteScript`
 
-🔗 Let’s connect and collaborate!
+📫 jakub.stawski@interactive.net.pl  
+🔗 [LinkedIn](https://linkedin.com/in/jakub-stawskidev)
